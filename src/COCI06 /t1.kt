@@ -1,0 +1,3 @@
+fun a() {
+    println("hi")
+}
