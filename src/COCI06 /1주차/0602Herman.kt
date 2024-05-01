@@ -6,5 +6,5 @@ fun main() {
     /** 유클리드에서의 원 면적*/
     println("%.6f".format((Math.PI * input * input)))
     /** taxicab 이론에서의 원 면적 */
-    println("%.6f".format((2 * input * input).toDouble()))
+    println("%.6f".format((2 * input * input)))
 }
